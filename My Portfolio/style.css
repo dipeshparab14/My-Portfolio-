@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(102, 170, 248);
+    text-align: center;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top:40px;
+
+}
+
+h1 {
+    color:rgb(4, 20, 102);
+    font-size: 4rem;
+    font-family: "Sacramento", cursive;
+}
+
+h2 {
+    color:rgb(4, 20, 102);
+    font-size: 2rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    right: 900px;
+    top: 150px;
+}
+
+.ship {
+    position: absolute;
+    width: 500px;
+    top: 150px;
+    
+}
+
+img {
+    max-width: 100%;
+}
+.sea {
+    width: 100%;
+    height: 220px;
+    margin-top: 90px;
+}
+
+.middle-container {
+    background-color: rgb(4, 231, 219);
+}
+.profile {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.intro {
+    font-size: 20;
+}
+
+p {
+    line-height: 2;
+}
+
+.typing {
+    display: inline-block;
+    width: 50%;
+
+}
+
+.typing-gif{
+    width: 300px;
+    float: left;
+    border-radius: 5%;
+    margin-top: 20px;
+}
+
+.coding {
+    font-size: 19px;
+}
+
+button {
+    background-color: rgb(0, 22, 104);
+}
+
+.btn {
+    color: aliceblue;
+    padding: 10px 20px;
+
+}
